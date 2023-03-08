@@ -16,7 +16,7 @@ That's it. You now have developer mode enabled and when you right click users, r
 
 ### Getting your Server / Guild ID
 
-With Developer Mode enabled, Right click either the server icon on the left side of your discord OR the server name at the top left when you're in the  window and click "Copy ID" <img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+With Developer Mode enabled, Right click either the server icon on the left side of your discord OR the server name at the top left when you're in the  window and click "Copy ID" <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 On mobile: You can long press/hold the server icon and click "More Options" then scroll to the bottom and "Copy ID"
 
@@ -34,13 +34,13 @@ Add the role to yourself or someone else in the server, click their name to brin
 
 Go into Server Settings > Roles and click the `...` icon OR right click the role name and "Copy ID"
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Method 3
 
 Typing in the server somewhere do an @ mention of the role you want the ID of, before sending it though go to just before the @ mention and type a `\` character then send the message, it should convert the mentioned role into a string of characters starting with `<@&` and ending with `>`, what's between these characters is the id for the role.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Top: Sent message<br>Bottom: Typed Message</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Top: Sent message<br>Bottom: Typed Message</p></figcaption></figure>
 
 ### Getting a User ID
 

@@ -1,4 +1,4 @@
-# Error 429
+# Error: code 429
 
 If you get an error saying "Error 429" in the server console when trying to start zdiscord or just randomly at any point, this is a warning from the discord API telling you that you are being rate limited for spamming the API too much.\
 What would be considered spamming the api too much?
