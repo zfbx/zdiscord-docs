@@ -28,6 +28,7 @@
 
 ## ℹ Information <a href="#info" id="info"></a>
 
+* [Donate](info/donate.md)
 * [License](info/license.md)
 * [Change Log](info/change-log.md)
 * [Contributing Guide](info/contributing-guide.md)
